@@ -78,7 +78,7 @@ section {
 .section-heading {
   font-size: 3rem;
   font-weight: 700;
-  background: linear-gradient(-45deg, #3db3c5, #274685);
+  background: linear-gradient(-45deg, #fff12e, #ffadf4);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -155,7 +155,7 @@ section {
 }
 
 .feature-1 .wrap-icon.icon-1 {
-  background: linear-gradient(-45deg, #3b87bd, #2d71a2);
+  background: linear-gradient(-45deg, #333333, #ffe07b);
 }
 
 .feature-1 .wrap-icon i {
@@ -606,7 +606,8 @@ section {
 }
 
 #header.header-scrolled {
-  background: rgba(39, 70, 133, 0.8);
+  background: rgb(255,162,251);
+  background: linear-gradient(0deg, rgba(255,162,251,0.5718662464985995) 0%, rgba(208,208,208,0.6026785714285714) 100%);
   height: 60px;
 }
 
@@ -620,7 +621,7 @@ section {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #fff;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -660,7 +661,7 @@ section {
   padding: 10px 0 10px 30px;
   font-size: 16px;
   font-weight: 400;
-  color: rgba(255, 255, 255, 0.65);
+  color: rgba(0, 0, 0, 0.65);
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -676,7 +677,7 @@ section {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #fff;
+  color: #000000;
 }
 
 .navbar .dropdown ul {
@@ -1031,4 +1032,8 @@ section {
 
 .social a i {
   line-height: 0;
+}
+#main  {
+  background: rgb(105,244,255);
+background: linear-gradient(0deg, rgba(105,244,255,0.5354516806722689) 0%, rgba(255,190,244,0.39539565826330536) 52%, rgba(255,190,244,0) 100%);
 }

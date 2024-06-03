@@ -1038,6 +1038,7 @@ section {
 #main1  {
   background: rgb(105,244,255);
 background: linear-gradient(0deg, rgba(105,244,255,0.5354516806722689) 0%, rgba(255,190,244,0.39539565826330536) 52%, rgba(255,190,244,0) 100%);
+
 }
 #main2 {
   background: rgb(255,178,178);

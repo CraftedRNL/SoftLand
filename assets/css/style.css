@@ -322,6 +322,7 @@ section {
   background: rgb(212,175,55);
   background: linear-gradient(0deg, rgba(212,175,55,1) 0%, rgba(212,175,55,0) 100%);
   color: #fff;
+
 }
 
 .cta-section h2 {
@@ -1043,4 +1044,5 @@ background: linear-gradient(0deg, rgba(105,244,255,0.5354516806722689) 0%, rgba(
 #main2 {
   background: rgb(255,178,178);
 background: linear-gradient(0deg, rgba(255,178,178,0.8323704481792717) 0%, rgba(178,233,255,0.4290091036414566) 52%, rgba(255,178,178,0) 100%);
+
 }

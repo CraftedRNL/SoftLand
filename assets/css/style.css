@@ -319,7 +319,8 @@ section {
 
 /* CTA Section */
 .cta-section {
-  background: linear-gradient(to right, rgb(39, 70, 133) 0%, rgb(61, 179, 197) 100%);
+  background: rgb(212,175,55);
+  background: linear-gradient(0deg, rgba(212,175,55,1) 0%, rgba(212,175,55,0) 100%);
   color: #fff;
 }
 
@@ -980,6 +981,7 @@ section {
 --------------------------------------------------------------*/
 .footer {
   padding: 5rem 0 2.5rem 0;
+  
 }
 
 .footer h3 {
@@ -1033,7 +1035,11 @@ section {
 .social a i {
   line-height: 0;
 }
-#main  {
+#main1  {
   background: rgb(105,244,255);
 background: linear-gradient(0deg, rgba(105,244,255,0.5354516806722689) 0%, rgba(255,190,244,0.39539565826330536) 52%, rgba(255,190,244,0) 100%);
+}
+#main2 {
+  background: rgb(255,178,178);
+background: linear-gradient(0deg, rgba(255,178,178,0.8323704481792717) 0%, rgba(178,233,255,0.4290091036414566) 52%, rgba(255,178,178,0) 100%);
 }

@@ -1107,6 +1107,7 @@ p, h4 {
 .portfolio .portfolio-wrap {
   transition: 0.3s;
   position: relative;
+  overflow: scroll;
   z-index: 1;
   background: rgba(69, 80, 91, 0.8);
 }
